@@ -19,7 +19,7 @@ namespace SimplySupportedBeamNaturalFrequency
         double fn = 0;
         double[] knArray = { 9.87, 39.5, 88.8, 158, 247 };
         double[] ResultArray = new double[5];
-
+        //s
         private void btnCalculateCant_Click(object sender, EventArgs e)
         {
             double elasticity;
