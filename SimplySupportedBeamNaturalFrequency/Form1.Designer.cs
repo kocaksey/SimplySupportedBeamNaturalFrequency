@@ -88,16 +88,16 @@ namespace SimplySupportedBeamNaturalFrequency
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(20, 27);
+            this.pictureBox1.Location = new System.Drawing.Point(369, 27);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(315, 141);
+            this.pictureBox1.Size = new System.Drawing.Size(343, 168);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(50, 410);
+            this.button1.Location = new System.Drawing.Point(45, 217);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(99, 23);
             this.button1.TabIndex = 12;
@@ -110,7 +110,7 @@ namespace SimplySupportedBeamNaturalFrequency
             this.tableLayoutPanel15.ColumnCount = 1;
             this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel15.Controls.Add(this.label28, 0, 0);
-            this.tableLayoutPanel15.Location = new System.Drawing.Point(15, 452);
+            this.tableLayoutPanel15.Location = new System.Drawing.Point(10, 259);
             this.tableLayoutPanel15.Name = "tableLayoutPanel15";
             this.tableLayoutPanel15.RowCount = 1;
             this.tableLayoutPanel15.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -151,7 +151,7 @@ namespace SimplySupportedBeamNaturalFrequency
             this.tableLayoutPanel14.Controls.Add(this.label19, 0, 2);
             this.tableLayoutPanel14.Controls.Add(this.label23, 0, 3);
             this.tableLayoutPanel14.Controls.Add(this.label17, 0, 0);
-            this.tableLayoutPanel14.Location = new System.Drawing.Point(15, 480);
+            this.tableLayoutPanel14.Location = new System.Drawing.Point(10, 287);
             this.tableLayoutPanel14.Name = "tableLayoutPanel14";
             this.tableLayoutPanel14.RowCount = 6;
             this.tableLayoutPanel14.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 14.2853F));
@@ -362,7 +362,7 @@ namespace SimplySupportedBeamNaturalFrequency
             this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel2, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel7, 0, 5);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(11, 203);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(6, 10);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 6;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 14.28571F));
@@ -614,7 +614,7 @@ namespace SimplySupportedBeamNaturalFrequency
             // 
             // btnCalculateCant
             // 
-            this.btnCalculateCant.Location = new System.Drawing.Point(179, 410);
+            this.btnCalculateCant.Location = new System.Drawing.Point(174, 217);
             this.btnCalculateCant.Name = "btnCalculateCant";
             this.btnCalculateCant.Size = new System.Drawing.Size(99, 23);
             this.btnCalculateCant.TabIndex = 10;
@@ -626,7 +626,7 @@ namespace SimplySupportedBeamNaturalFrequency
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(354, 669);
+            this.ClientSize = new System.Drawing.Size(725, 471);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.tableLayoutPanel15);
             this.Controls.Add(this.tableLayoutPanel14);
